@@ -26,3 +26,5 @@ def test():
 		pass
 
 test()
+
+print("hello")
